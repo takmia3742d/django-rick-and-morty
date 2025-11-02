@@ -1,18 +1,14 @@
-# React + Vite
+# Rick and Morty Explorer 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicación web desarrollada con React que consume la API de Rick and Morty para explorar personajes del multiverso
 
-Currently, two official plugins are available:
+## 📸 Capturas de Pantalla
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img width="861" height="741" alt="image" src="https://github.com/user-attachments/assets/940b55a1-7773-480a-87bf-091fab44d97d" />
 
-## React Compiler
+<img width="816" height="794" alt="image" src="https://github.com/user-attachments/assets/606eab01-e3bd-43e4-8464-c47fb86125ab" />
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
 
-Note: This will impact Vite dev & build performances.
+<img width="798" height="692" alt="image" src="https://github.com/user-attachments/assets/388a7050-8ab0-412b-9f41-20197888c3f5" />
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
